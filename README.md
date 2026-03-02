@@ -1,4 +1,4 @@
-# 👋 Olá, I'm Luiz Gustavo
+# 👋 Hey there! I'm Luiz Gustavo
 ### Full-stack Developer | Product Engineer | CS Student @ UNIFEOB
 
 I approach development as **product engineering**—not just writing code. My focus is on building scalable platforms with a strong emphasis on architecture, clean state management, and UX consistency. I bridge the gap between robust industrial logic and modern web scalability.
